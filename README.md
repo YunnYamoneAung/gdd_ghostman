@@ -46,13 +46,11 @@ PacMan-Ghost-RoleFlip/
  └── README.md
 
 
-
 ## Screenshots
-Gameplay screenshot of Pac-Man vs Ghost
+![Screenshot 2025-09-28 214503](https://github.com/user-attachments/assets/3a4e214c-64de-4600-ad6c-f44efd04a59b)
+![Screenshot 2025-09-28 214541](https://github.com/user-attachments/assets/4c27858a-89bb-41e1-aee6-79b3ca0e6c3e)
+![Title](https://github.com/user-attachments/assets/6ee94dea-dbfe-4258-bcf1-947a190c007c)
 
-Frightened mode example
-
-Game over screen
 
 ## Credits
 Original Pac-Man by Namco (1980)
