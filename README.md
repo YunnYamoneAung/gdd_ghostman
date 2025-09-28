@@ -7,7 +7,7 @@ Instead of playing as Pac-Man, you are the Ghost. Your mission is to catch Pac-M
 
 ## Gameplay
 You Are the Ghost (Player)
-Control with Arrow Keys (↑ ↓ ← →).
+Control with Arrow Keys (↑ ↓ ← →) or (W A S D).
 Catch Pac-Man before he eats all pellets.
 Pac-Man (AI)
 Moves automatically through the maze.
