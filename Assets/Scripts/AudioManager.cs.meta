@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2c3abc5124827d749963df7ad932e8b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundMusic: {instanceID: 0}
+  - pelletSound: {fileID: 8300000, guid: ddb56c0ecec903c4e81673219b68d2a5, type: 3}
+  - powerPelletSound: {fileID: 8300000, guid: 8687a838c9890f3439749c095fd897b2, type: 3}
+  - deathSound: {fileID: 8300000, guid: 078504c5091a3e64bb187f66e0d5dadd, type: 3}
+  - eatGhostSound: {fileID: 8300000, guid: 7f0069d09f4f94a4991113413c165c2d, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
