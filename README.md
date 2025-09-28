@@ -1,6 +1,7 @@
-Team Members
+## Team Members
 Thukha Nyan - 6520076 May Thu Khin - 6611281 Yunn Yamone Aung - 6511158
 
+## Ghostman
 A Unity project that flips the classic Pac-Man gameplay:
 Instead of playing as Pac-Man, you are the Ghost. Your mission is to catch Pac-Man before he clears the maze!
 
