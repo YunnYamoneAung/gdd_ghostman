@@ -1,11 +1,11 @@
 ## Team Members
 Thukha Nyan - 6520076 May Thu Khin - 6611281 Yunn Yamone Aung - 6511158
 
-## Ghostman
+## About Our Project - Ghostman
 A Unity project that flips the classic Pac-Man gameplay:
 Instead of playing as Pac-Man, you are the Ghost. Your mission is to catch Pac-Man before he clears the maze!
 
-🎮 Gameplay
+## Gameplay
 You Are the Ghost (Player)
 Control with Arrow Keys (↑ ↓ ← →).
 Catch Pac-Man before he eats all pellets.
@@ -28,7 +28,7 @@ Win Conditions
 Ghost Wins → Pac-Man runs out of lives.
 Pac-Man Wins → Pac-Man eats all pellets.
 
-🛠️ Tech Stack
+## Tech Stack
 Engine: Unity (2021.3 LTS or higher recommended)
 Language: C#
 Assets: Classic-style sprites & sounds
