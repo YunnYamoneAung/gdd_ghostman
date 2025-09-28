@@ -32,13 +32,14 @@ Pac-Man Wins → Pac-Man eats all pellets.
 Engine: Unity (2021.3 LTS or higher recommended)
 Language: C#
 Assets: Classic-style sprites & sounds
-🚀 How to Run
+
+## How to Run
 Clone or download the repo:
 Open the project in Unity Hub.
 Load the provided Gameplay Scene.
 Press ▶️ Play to start.
 
-📂 Project Structure
+## Project Structure
 PacMan-Ghost-RoleFlip/
  ├── Assets/
  │   ├── Scripts/         # C# gameplay scripts │   ├── Sprites/         # Pac-Man & Ghost sprites │   ├── Prefabs/         # Game object prefabs │   ├── Scenes/          # Gameplay scene │   └── Audio/           # Sound effects & BGM ├── ProjectSettings/
@@ -46,12 +47,14 @@ PacMan-Ghost-RoleFlip/
 
 
 
-📸 Screenshots (to add)
+## Screenshots
 Gameplay screenshot of Pac-Man vs Ghost
+
 Frightened mode example
 
 Game over screen
-🏆 Credits
+
+## Credits
 Original Pac-Man by Namco (1980)
-Role-flip concept & Unity implementation by [Your Name / Team]
+Role-flip concept & Unity implementation
 Assets adapted for educational/demonstration use
